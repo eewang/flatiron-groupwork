@@ -1,0 +1,23 @@
+// TABLES
+
+User
+- 
+Quiz
+- quiz_id
+- quiz_title
+- quiz_date
+
+Question
+- question_id
+- question_text
+
+Choice
+- 
+
+Quiz-Question
+- quiz_id
+- question_id
+
+Answer
+
+
